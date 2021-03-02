@@ -1,5 +1,5 @@
 // Copyright (c) 2018.
-// Author:  LI,Binfei (libinfei@huawei.com/179770346@qq.com)
+// Author:  LI,Binfei (179770346@qq.com)
 //    v0.0.1 2019/01/03 11:59 
 //  实现只依赖于ntdll的日志输出接口
 
